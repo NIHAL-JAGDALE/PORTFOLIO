@@ -10,7 +10,7 @@ const Resume = () => {
   const education = {
     degree: 'Bachelor of Engineering in Information Technology',
     institution: 'Army Institute of Technology, Pune',
-    cgpa: '8.68 / 10',
+    cgpa: '8.69 / 10',
     status: 'Expected July 2027',
   };
 
