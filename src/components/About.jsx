@@ -52,7 +52,7 @@ const About = () => {
             {[
               { number: '3+', label: 'Projects Shipped' },
               { number: '300+', label: 'DSA Problem Solved' },
-              { number: '8.68', label: 'CGPA' },
+              { number: '8.69', label: 'CGPA' },
               { number: '10+', label: 'Technologies' },
             ].map((stat, i) => (
               <div
